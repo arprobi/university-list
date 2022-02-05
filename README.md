@@ -1,14 +1,14 @@
-# Getting Started
+# University List WebApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Requirement
+- NodeJS v14.17.0
+- Yarn v1.22.15
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## How to Use (Run command in your terminal)
+- `git clone git@github.com:arprobi/university-list.git`
+- `yarn install`
+- `yarn start`
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Features
 
